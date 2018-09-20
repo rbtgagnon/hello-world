@@ -1,3 +1,4 @@
 # hello-world
-sample project
-# just setting up some public play space for my raspberry Pi projects
+sample project 2
+# just setting up some public storage space for my raspberry Pi projects
+# when it rains it pours
